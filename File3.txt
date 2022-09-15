@@ -1,1 +1,2 @@
 Testing! Sudah sampai tahap Github dengan baik.
+Selanjutnya kita akan pull data dari github.
