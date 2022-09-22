@@ -2,3 +2,4 @@ Testing! Sudah sampai tahap Github dengan baik.
 Selanjutnya kita akan pull data dari github.
 Data sudah di pull dengan baik dari Github, sekarang kita kembalikan lagi menggunakan push.
 Coba ahh remote add lagi. Hehehehe
+Selanjutnya kita edit dari file test, untuk di push dan di pull di file asli untuk latihan.
